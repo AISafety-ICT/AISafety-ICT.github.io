@@ -1,1 +1,18 @@
+title: My Organization
+description: Research | Innovation | Community
+theme: jekyll-theme-minimal
+
+logo: /profile.jpg   # your personal photo (square works best)
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications
+  - title: "Team"
+    url: /team
+  - title: "Projects"
+    url: /projects
+  - title: "Contact"
+    url: /contact
 
